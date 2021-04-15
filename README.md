@@ -1,2 +1,2 @@
-# Dotfiles
-My dots, mostly stolen from Luke Smith.
+#Dots
+The Dotfiles of my Arch Linux machine running DWM. 
